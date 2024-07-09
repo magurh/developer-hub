@@ -62,4 +62,3 @@ This command generates static content into the `build` directory and can be serv
 
 **Note:** Search will only function with a production build.
 
-Edit
